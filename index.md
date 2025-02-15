@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Medidation is key
 ---
+
+# My github repo collection
 
